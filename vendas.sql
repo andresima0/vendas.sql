@@ -3,6 +3,7 @@
 
 -- PASSO 01
 CREATE DATABASE Sistema_Vendas_Online;
+
 -- PASSO 02
 USE Sistema_vendas_Online;
 
