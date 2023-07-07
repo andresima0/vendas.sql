@@ -2,6 +2,10 @@
 
 ### SQL Sales System
 
+<p align="center">
+  <img src= https://github.com/andresima0/vendas.sql/assets/111400782/5dcec08b-3001-4f23-874d-61e300553612)" alt="Sql_vendas") height = "400">
+</p>
+
 ### Portuguese Version:
 
 1.	Criar um banco de dados com o nome “Sistema_Vendas_Online”;
